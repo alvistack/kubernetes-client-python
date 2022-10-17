@@ -1,0 +1,5 @@
+python-kubernetes (100:23.3.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kubernetes-client/python/releases/tag/v23.3.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 01 Mar 2022 09:19:00 +0800
