@@ -1,0 +1,5 @@
+python-kubernetes (100:34.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kubernetes-client/python/releases/tag/v34.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 21 Aug 2025 16:38:18 +0800
