@@ -1,0 +1,5 @@
+python3-kubernetes: copyright-without-copyright-notice
+python3-kubernetes: initial-upload-closes-no-bugs
+python3-kubernetes: no-manual-page
+python3-kubernetes: package-installs-python-pycache-dir
+python3-kubernetes: zero-byte-file-in-doc-directory
